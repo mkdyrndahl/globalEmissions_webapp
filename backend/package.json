@@ -1,0 +1,30 @@
+{
+  "name": "mdyrndahcsis3380l-as2",
+  "version": "1.0.0",
+  "description": "Assignment Package",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mongo",
+    "express",
+    "react",
+    "node"
+  ],
+  "author": "Matthew Dyrndahl 300234287",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "helmet": "^4.6.0",
+    "mongodb": "^4.2.1",
+    "mongoose": "^6.0.13",
+    "nodemon": "^2.0.15",
+    "react-dom": "^17.0.2"
+  }
+}
